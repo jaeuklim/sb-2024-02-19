@@ -1,1 +1,1 @@
-테라폼 실습 project
+AWS 테라폼 실습 project
